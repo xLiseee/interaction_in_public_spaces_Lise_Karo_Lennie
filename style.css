@@ -68,6 +68,8 @@ footer {
     background-color: #8F4826;
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    bottom: 0;
 }
 a {
     text-decoration: none;
